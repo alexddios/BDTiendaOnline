@@ -1,5 +1,8 @@
 ﻿# BD Tienda Online (Sistema de Gestion Hospitalaria)
 
+## Diagrama Entidad-Relación
+<img width="942" height="482" alt="image" src="https://github.com/user-attachments/assets/0dfb9447-1f5d-451e-884b-ec8e81aded8f" />
+
 ## Que hace la aplicacion
 Este proyecto implementa una base de datos relacional en MySQL para gestionar pacientes, medicos, citas, habitaciones e ingresos hospitalarios. Incluye scripts para crear la estructura (`DDL.sql`), cargar datos de ejemplo (`DML.sql`), ejecutar consultas frecuentes (`Consultas SQL.sql`) y automatizar una operación común mediante procedimiento almacenado (`Procedimiento.sql`).
 
